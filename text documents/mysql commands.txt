@@ -1,0 +1,2 @@
+create table login_info ( loginid integer, user_name varchar(50), login_time DATETIME, logout_time DATETIME);
+create table up_database (login_id integer, username varchar(50), password varchar(50));
